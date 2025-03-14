@@ -1,4 +1,4 @@
-# PLP DAY 1: Simple Calculator
+# PLP PYTHON DAY 1: Simple Calculator
 
 This Python script allows you to perform basic arithmetic operations (addition, subtraction, multiplication, and division) on two numbers entered by the user.
 
